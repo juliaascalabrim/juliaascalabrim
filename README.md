@@ -1,16 +1,13 @@
-## Hi there 👋
+- oiii, me chamo Julia e estou no terceiro ano do ensimo médio.
 
-<!--
-**juliaascalabrim/juliaascalabrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- tenho 18 anos, faço aniversário dia 23/05/2006.
 
-Here are some ideas to get you started:
+- atualmente estou explorando essa nova rede de ensino, porém ja usei o Scratch e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- para entrar em contato comigo: * (email) 00001085361111sp@aluno.educacao.sp.gov.br.*
+
+- ![](https://media1.tenor.com/m/QxHPuWubhJQAAAAC/awkward-blonde.gif)
+  
+
+
+
